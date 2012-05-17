@@ -1,0 +1,8 @@
+/* How to use */
+
+ruby reviewgetSample.rb
+
+this script uses iTunesReviewRSS(Atom)
+current review is angrybirds in japan
+
+tested at Ruby 1.9.3
